@@ -1,0 +1,733 @@
+site_id,site_name,region,ccamlr_id,latitude,longitude,input_srid
+ACTI,Active Reef (Active Sound),Northeast Antarctic Peninsula,48.1,-63.390833,-55.874722,4326
+ACUN,Acuna Island,South Orkney Islands,48.2,-60.7612,-44.637,4326
+ADAM,Adams Island,Queen Mary Land,58.4.1,-66.5459,92.5486,4326
+ADAR,Cape Adare,Victoria Land,88.1,-71.3063,170.1999,4326
+AILS,Ailsa Craig,South Orkney Islands,48.2,-60.78,-44.631,4326
+AITC,Barrientos Island (Aitcho Islands),South Shetland Islands,48.1,-62.4071,-59.7517,4326
+AITI,Aitcho Island Other,South Shetland Islands,48.1,-62.381,-59.777,4326
+AITK,Aitken Cove,South Orkney Islands,48.2,-60.738,-44.525,4326
+AKAR,Akarui Point,Queen Maud Land,58.4.2,-68.4999,41.3901,4326
+ALAS,Alasheyev Bight,Enderby Land,58.4.2,-67.654,46.109,4326
+ALCO,Alcock Island,Central-west Antarctic Peninsula,48.1,-64.24,-61.127,4326
+ALMI,Brown Station,Central-west Antarctic Peninsula,48.1,-64.8833,-62.8667,4326
+AMAN,Amanda Bay,Princess Elizabeth Land,58.4.2,-69.27,76.83,4326
+AMBU,Ambush Bay,Northeast Antarctic Peninsula,48.1,-63.184,-55.393,4326
+AMPH,Amphibolite Point,South Orkney Islands,48.2,-60.684,-45.339,4326
+AMUN,Amundsen Bay,Enderby Land,58.4.2,-66.78,50.55,4326
+ANCH,Anchorage Island,Southwest Antarctic Peninsula,48.1,-67.6042,-68.2089,4326
+ANDE,Cape Anderson,South Orkney Islands,48.2,-60.757,-44.601,4326
+ANDI,Andresen Island Site 2,Southwest Antarctic Peninsula,48.1,-66.875,-66.711,4326
+ANDR,Andresen Island Site 1,Southwest Antarctic Peninsula,48.1,-66.879,-66.649,4326
+ANDS,Andersen Island,Mac. Robertson Land,58.4.2,-67.4353,63.3572,4326
+ANNE,Cape Anne,Victoria Land,88.1,-73.617,169.85,4326
+ANVS,Anvers Island South West (7 km south of Gerlache Island),Central-west Antarctic Peninsula,48.1,-64.66,-64.25,4326
+ARDL,Ardley Island,South Shetland Islands,48.1,-62.213,-58.933,4326
+ARMS,Armstrong Reef,Southwest Antarctic Peninsula,48.1,-65.8919,-66.2117,4326
+ARTH,Arthurson Ridge,Victoria Land,88.1,-69.3634,158.5109,4326
+ASPL,Aspland Island,Elephant Island,48.1,-61.468,-55.894,4326
+ASTD,Astrid,Queen Maud Land,48.6,-69.95,8.31,4326
+ASTR,Astrolabe Island,Northwest Antarctic Peninsula,48.1,-63.316,-58.683,4326
+ASTU,Cape Astrup,Central-west Antarctic Peninsula,48.1,-64.710833,-63.182778,4326
+ATKA,Atka,Queen Maud Land,48.6,-70.61,-8.13,4326
+AUST,Auster Islands,Mac. Robertson Land,58.4.2,-67.39,63.98,4326
+AVIA,Avian Island,Southwest Antarctic Peninsula,48.1,-67.7732,-68.8855,4326
+BACH,Bach Quartet,South Shetland Islands,48.1,-61.921,-58.028,4326
+BACK,Backer Islands,Marie Byrd Land,88.3,-74.4112,-102.5515,4326
+BAIL,Baily Head (Deception Island),South Shetland Islands,48.1,-62.965,-60.506,4326
+BALA,Balaena Islands,Wilkes Land,58.4.1,-66.0158,111.0688,4326
+BALD,Bald Head,Northeast Antarctic Peninsula,48.1,-63.6302,-57.6048,4326
+BARC,Barcroft Islands,Southwest Antarctic Peninsula,48.1,-66.4575,-67.1397,4326
+BARN,Barnard Point (Livingston Island),South Shetland Islands,48.1,-62.758,-60.338,4326
+BART,Barton Peninsula,South Shetland Islands,48.1,-62.224,-58.791,4326
+BATT,Cape Batterbee,Enderby Land,58.4.2,-65.842,53.8129,4326
+BEAG,Beagle Island,Northeast Antarctic Peninsula,48.1,-63.4139,-54.6675,4326
+BEAN,Beaufort Island North,Victoria Land,88.1,-76.9288,166.881,4326
+BEAR,Bear Peninsula,Marie Byrd Land,88.2,-74.3922,-110.1917,4326
+BEAU,Beaufort Island,Victoria Land,88.1,-76.9694,166.8978,4326
+BEAV,Beaver Rocks,Northwest Antarctic Peninsula,48.1,-63.679,-59.362,4326
+BECH,Bechervaise Island,Mac. Robertson Land,58.4.2,-67.5833,62.8167,4326
+BELI,Bell Island,Central-west Antarctic Peninsula,48.1,-64.2782,-61.9976,4326
+BELL,Bell Point,South Shetland Islands,48.1,-62.119,-58.889,4326
+BELS,Cape Belsham,Elephant Island,48.1,-61.096,-54.883,4326
+BENE,Beneden Head,Central-west Antarctic Peninsula,48.1,-64.7671,-62.701,4326
+BENN,Cape Bennett,South Orkney Islands,48.2,-60.62,-45.236,4326
+BENT,Benten,Queen Maud Land,58.4.2,-69.0417,39.25,4326
+BERK,Berkley/Cameron,Wilkes Land,58.4.1,-66.2163,110.64,4326
+BERN,Bernardo O'Higgins Station,Northwest Antarctic Peninsula,48.1,-63.3209,-57.9,4326
+BERT,Berthelot Islands (excl. Green Island),Central-west Antarctic Peninsula,48.1,-65.333,-64.112,4326
+BIEN,Cape Bienvenue,Wilkes Land,58.4.1,-66.7203,140.5252,4326
+BISC,Biscoe Point,Central-west Antarctic Peninsula,48.1,-64.8114,-63.7775,4326
+BLAI,Blaiklock Island,Southwest Antarctic Peninsula,48.1,-67.55,-67.066667,4326
+BLAK,Blake Island,Northwest Antarctic Peninsula,48.1,-63.649,-59.0303,4326
+BOLI,Bolingen/Lichen Island,Princess Elizabeth Land,58.4.2,-69.456,75.7474,4326
+BONG,Bongrain Point (Pourquoi Pas Island),Southwest Antarctic Peninsula,48.1,-67.7233,-67.7319,4326
+BOUD,Boudet Island,Central-west Antarctic Peninsula,48.1,-65.1834,-64.152,4326
+BOWL,Cape Bowles,Elephant Island,48.1,-61.316,-54.091,4326
+BOWM,Bowman Island,Wilkes Land,58.4.1,-65.16,103.07,4326
+BOYE,Boyer Rocks,Northwest Antarctic Peninsula,48.1,-63.58295,-59.0371,4326
+BPTS,Byewater Point (south),South Shetland Islands,48.1,-62.774695,-61.526269,4326
+BRAS,Brash Island,Northeast Antarctic Peninsula,48.1,-63.386389,-54.914167,4326
+BRAT,Brattstrand Bluff,Princess Elizabeth Land,58.4.2,-69.2157,76.9995,4326
+BRDM,Cape Bird Middle,Victoria Land,88.1,-77.230393,166.4187,4326
+BRDN,Cape Bird North,Victoria Land,88.1,-77.214483,166.44589,4326
+BRDS,Cape Bird South,Victoria Land,88.1,-77.259444,166.379444,4326
+BRIM,Brimstone Peak,South Shetland Islands,48.1,-61.912407,-57.752451,4326
+BRUI,Bruce Island,Central-west Antarctic Peninsula,48.1,-64.8956,-63.1158,4326
+BRIT,Brittannia's Figleaf,Elephant Island,48.1,-61.278,-55.213,4326
+BRIW,Brittannia's Figleaf West,Elephant Island,48.1,-61.278,-55.241,4326
+BROW,Brown Bluff,Northeast Antarctic Peninsula,48.1,-63.5222,-56.905,4326
+BRPW,Brimstone Peak (west),South Shetland Islands,48.1,-61.918323,-57.7633,4326
+BRUC,Bruce Islands,South Orkney Islands,48.2,-60.683,-44.924,4326
+BRYC,Bryde Island Cliffs,Central-west Antarctic Peninsula,48.1,-64.854167,-62.878611,4326
+BRYE,Bryde Island East,Central-west Antarctic Peninsula,48.1,-64.889722,-62.927222,4326
+BRYS,Bryde Island South,Central-west Antarctic Peninsula,48.1,-64.9,-62.95,4326
+BSON,Brownson Islands,Marie Byrd Land,88.3,-74.168119,-103.636074,4326
+BUCH,Buchanan Point,South Orkney Islands,48.2,-60.691,-44.465,4326
+BUCK,Buckle Island,Victoria Land,88.1,-66.8908,163.2871,4326
+BURD,Cape Burd,Northeast Antarctic Peninsula,48.1,-63.650556,-57.129722,4326
+BURK,Cape Burks,Marie Byrd Land,88.2,-74.750466,-136.829586,4326
+BUSK,Buskin Rocks,Elephant Island,48.1,-61.057,-55.149,4326
+BYER,Byers Peninsula,South Shetland Islands,48.1,-62.633,-61.066,4326
+BYEW,Byewater Point,South Shetland Islands,48.1,-62.7528,-61.5021,4326
+CARL,Carlota Cove,South Shetland Islands,48.1,-62.373443,-59.709059,4326
+CARO,Caroline Bluff,South Shetland Islands,48.1,-61.911,-57.659,4326
+CAST,Castle Rock,South Shetland Islands,48.1,-62.7886,-61.5814,4326
+CASY,Casy Island,Northwest Antarctic Peninsula,48.1,-63.2365,-57.5052,4326
+CBAR,Cape Barne,Victoria Land,88.1,-77.578012,166.24162,4326
+CBAY,Casey Bay,Enderby Land,58.4.2,-67.3774,48.6565,4326
+CBEK,"Cape Colbeck, Edward VII Peninsula",Marie Byrd Land,88.2,-77.14,-157.7,4326
+CCMP,Chinstrap Camp,Elephant Island,48.1,-61.156,-54.756,4326
+CCOE,Cape Conway (east),South Shetland Islands,48.1,-62.838,-61.424,4326
+CDAV,Cape Davis,Victoria Land,88.1,-66.65,163.5333,4326
+CECI,Cecilia Island,South Shetland Islands,48.1,-62.4128,-59.7285,4326
+CHAB,"Chabrier Rock, Vaureal Peak",South Shetland Islands,48.1,-62.1874,-58.2961,4326
+CHAL,Cape Hallett,Victoria Land,88.1,-72.3179,170.2142,4326
+CHAP,Chappel Island,Wilkes Land,58.4.1,-66.1772,110.4193,4326
+CHAR,Charcot Island,Palmer Land,88.3,-69.7617,-75.4074,4326
+CHAT,Chatos Island,Southwest Antarctic Peninsula,48.1,-67.66,-69.152,4326
+CHEA,Cheal Point,South Orkney Islands,48.2,-60.633,-45.994,4326
+CHEC,Crown Head (east coast),South Orkney Islands,48.2,-60.627,-45.259,4326
+CHI1,Child Rocks Islands 1,Mac. Robertson Land,58.4.2,-67.4377,63.2749,4326
+CHI2,Child Rocks Islands 2,Mac. Robertson Land,58.4.2,-67.438,63.2824,4326
+CHI3,Child Rocks Islands 3,Mac. Robertson Land,58.4.2,-67.4387,63.2715,4326
+CHIC,Chick Islands,Wilkes Land,58.4.1,-66.7918,120.9934,4326
+CHII,Chinstrap Islet,Victoria Land,88.1,-66.925,163.311,4326
+CHIN,Chinstrap Cove,Elephant Island,48.1,-61.245,-54.197,4326
+CHIS,Christine Island,Central-west Antarctic Peninsula,48.1,-64.7946,-64.0236,4326
+CHNE,Cape Herschel (northeast),Central-west Antarctic Peninsula,48.1,-64.042,-60.986,4326
+CHPT,Charles Point,Central-west Antarctic Peninsula,48.1,-64.236,-61,4326
+CHRI,Christoffersen Island,South Orkney Islands,48.2,-60.728,-45.035,4326
+CHSE,Cape Herschel (southeast),Central-west Antarctic Peninsula,48.1,-64.078,-61.033,4326
+CHUN,Cape Hunter,Victoria Land,58.4.1,-66.963,142.349,4326
+CIER,Cierva Point,Central-west Antarctic Peninsula,48.1,-64.157,-60.96,4326
+CIOL,Coronation Island (other localities),South Orkney Islands,48.2,-60.665,-45.444,4326
+CIPT,Cieslak Point,South Shetland Islands,48.1,-62.009,-58.655,4326
+CLAR,Clark Island,Marie Byrd Land,88.2,-74.056,-105.193,4326
+CLIN,Cape Lindsey,Elephant Island,48.1,-61.107,-55.48,4326
+CLPT,Claude Point,Central-west Antarctic Peninsula,48.1,-64.116,-62.6177,4326
+CMEL,Cape Melville,South Shetland Islands,48.1,-62.022,-57.58,4326
+CMID,Coulman Middle,Victoria Land,88.1,-73.4372,169.8854,4326
+CMUR,Cape Murray,Central-west Antarctic Peninsula,48.1,-64.3663,-61.6206,4326
+CNOR,Coulman North,Victoria Land,88.1,-73.3822,169.8401,4326
+COBA,Cobalescou Island,Central-west Antarctic Peninsula,48.1,-64.1795,-61.6499,4326
+COCK,Cockburn Island,Northeast Antarctic Peninsula,48.1,-64.2005,-56.8412,4326
+COFF,Coffer Island,South Orkney Islands,48.2,-60.742,-45.138,4326
+COLB,Colbeck Archipelago Unnamed 1,Mac. Robertson Land,58.4.2,-67.3436,61.0647,4326
+CONC,Conception Point,South Orkney Islands,48.2,-60.512,-45.709,4326
+CONE,Cone Island,Southwest Antarctic Peninsula,48.1,-67.6749,-69.1531,4326
+CONF,Confusion Island,South Orkney Islands,48.2,-60.738,-45.636,4326
+CONI,Conical Island (Aviation Islands),Victoria Land,88.1,-69.2667,158.7833,4326
+CONT,Continental Rock,Mac. Robertson Land,58.4.2,-67.3997,59.7964,4326
+CONW,Cape Conway,South Shetland Islands,48.1,-62.8415,-61.4224,4326
+CORI,Cornwall Island,South Shetland Islands,48.1,-62.3426,-59.709,4326
+CORM,Cormorant Island,Central-west Antarctic Peninsula,48.1,-64.7939,-63.9667,4326
+CORN,Cape Cornish (NE Buckle),Victoria Land,88.1,-66.7031,163.2139,4326
+CORP,Cormorant Point,South Orkney Islands,48.2,-60.756,-44.732,4326
+COTT,Cape Cotter,Victoria Land,88.1,-72.4045,170.3122,4326
+COUL,Coulman Island,Victoria Land,88.1,-73.35,169.61,4326
+CPTW,Cieslak Point (west),South Shetland Islands,48.1,-62.012,-58.689,4326
+CRAB,Crab Beach,Elephant Island,48.1,-61.246,-55.17,4326
+CRAG,Near Craggy Point (Sugarloaf Island),Elephant Island,48.1,-61.302,-54.186,4326
+CRBA,Cresta Run Bay,Elephant Island,48.1,-61.236,-55.359,4326
+CROB,Cape Robertson,South Orkney Islands,48.2,-60.714,-44.84,4326
+CROW,Crown Head,South Orkney Islands,48.2,-60.623,-45.316,4326
+CROZ,Cape Crozier,Victoria Land,88.1,-77.46,169.32,4326
+CRUZ,Cruzen Island,Marie Byrd Land,88.2,-74.7341,-140.3266,4326
+CRWL,Cornwallis Island,Elephant Island,48.1,-61.0724,-54.4641,4326
+CRYS,Crystal Hill,Northeast Antarctic Peninsula,48.1,-63.649444,-57.745833,4326
+CSOU,Coulman South,Victoria Land,88.1,-73.5137,169.8779,4326
+CURZ,Curzon Islands,Wilkes Land,58.4.1,-66.767,141.5669,4326
+CUVE,Cuverville Island,Central-west Antarctic Peninsula,48.1,-64.684,-62.626,4326
+CVIK,Cape Vik,South Orkney Islands,48.2,-60.655,-45.663,4326
+DAMO,Dorian Bay/Damoy Point,Central-west Antarctic Peninsula,48.1,-64.8149,-63.4968,4326
+DANC,Danco Island,Central-west Antarctic Peninsula,48.1,-64.734,-62.5938,4326
+DARB,Darbel Island,Southwest Antarctic Peninsula,48.1,-66.3808,-65.9003,4326
+DARN,Cape Darnley,Mac. Robertson Land,58.4.2,-67.88,69.7,4326
+DARW,Darwin Island,Northeast Antarctic Peninsula,48.1,-63.437,-54.726,4326
+DARX,Darboux Island,Central-west Antarctic Peninsula,48.1,-65.4028,-64.215,4326
+DAVE,Davey Point,South Shetland Islands,48.1,-61.9689,-58.5302,4326
+DAVI,Davis Island,Wilkes Land,58.4.1,-66.6637,108.4444,4326
+DAWS,Dawson,Coats Land,48.5,-76.02,-26.67,4326
+DBAY,Davis Bay,Victoria Land,88.1,-69.35,158.49,4326
+DECI,Decimal Point,Elephant Island,48.1,-61.097,-54.702,4326
+DEEI,Dee Island,South Shetland Islands,48.1,-62.4229,-59.7836,4326
+DELA,Delaite Island,Central-west Antarctic Peninsula,48.1,-64.5643,-62.1881,4326
+DEMA,Demay Point,South Shetland Islands,48.1,-62.2137,-58.4191,4326
+DEMS,Demas Rocks,Northwest Antarctic Peninsula,48.1,-63.35,-58.0333,4326
+DENI,Cape Denison,Victoria Land,58.4.1,-67.0072,142.6647,4326
+DEPT,Devils Point,South Shetland Islands,48.1,-62.6714,-61.1829,4326
+DESC,Descazes Island,Southwest Antarctic Peninsula,48.1,-67.3334,-67.3334,4326
+DESO,Desolation Island,South Shetland Islands,48.1,-62.4578,-60.3468,4326
+DETA,Detaille Island,Southwest Antarctic Peninsula,48.1,-66.8708,-66.7867,4326
+DEVI,Devil Island,Northeast Antarctic Peninsula,48.1,-63.7992,-57.2889,4326
+DIBB,Dibble Glacier,Wilkes Land,58.4.1,-66.01,134.79,4326
+DOBE,Dorian Beacon,Central-west Antarctic Peninsula,48.1,-64.8149,-63.4968,4326
+DOLL,Dolleman,Palmer Land,48.5,-70.61,-60.43,4326
+DOME,Dome Island (Aviation Islands),Victoria Land,88.1,-69.2667,158.7833,4326
+DOU1,Douglas Islands 1,Mac. Robertson Land,58.4.2,-67.3803,63.3893,4326
+DOU2,Douglas Islands 2,Mac. Robertson Land,58.4.2,-67.3849,63.3895,4326
+DOWN,Downshire Cliffs,Victoria Land,88.1,-71.5582,170.592,4326
+DREA,Dream Island,Central-west Antarctic Peninsula,48.1,-64.7254,-64.2256,4326
+DRES,Drescher,Queen Maud Land,48.6,-72.83,-19.34,4326
+DREW,Dream Island West (Casey Islands),Central-west Antarctic Peninsula,48.1,-64.729528,-64.253955,4326
+DUFF,Duff Point (Greenwich Island),South Shetland Islands,48.1,-62.45,-60.033333,4326
+DUKE,Duke of York Island,Victoria Land,88.1,-71.6235,170.0635,4326
+DUND,Dundee Island,Northeast Antarctic Peninsula,48.1,-63.483,-55.966,4326
+DUPT,Duthiers Point,Central-west Antarctic Peninsula,48.1,-64.8049,-62.8179,4326
+DURO,Duroch Islands,Northwest Antarctic Peninsula,48.1,-63.3033,-57.8903,4326
+DURV,d'Urville Monument,Northeast Antarctic Peninsula,48.1,-63.4267,-56.2944,4326
+DUTH,Duthoit Point,South Shetland Islands,48.1,-62.307,-58.835,4326
+EADI,Eadie Island,Elephant Island,48.1,-61.482,-55.929,4326
+EAGL,Eagle Island,Northeast Antarctic Peninsula,48.1,-63.659936,-57.489457,4326
+EARL,Earle Island,Northeast Antarctic Peninsula,48.1,-63.4833,-54.7833,4326
+ECAP,East Cape,South Orkney Islands,48.2,-60.633,-45.201,4326
+ECKE,Eckener Point,Central-west Antarctic Peninsula,48.1,-64.4309,-61.6042,4326
+EDEN,Eden Rocks,Northeast Antarctic Peninsula,48.1,-63.4946,-55.7018,4326
+EDMO,Edmonson Point,Victoria Land,88.1,-74.3167,165.0666,4326
+EDWA,Edwards Point,South Shetland Islands,48.1,-62.4629,-59.4984,4326
+EDWI,Edwards Islands,Marie Byrd Land,88.3,-73.8701,-103.0057,4326
+EGAR,East 2-3 km of Cape Garry,South Shetland Islands,48.1,-63.3555,-62.2131,4326
+EIP0,Elephant Island (north coast point 0),Elephant Island,48.1,-61.077,-55.145,4326
+EIP1,Elephant Island (north coast point 1),Elephant Island,48.1,-61.091,-55.113,4326
+EIP2,Elephant Island (north coast point 2),Elephant Island,48.1,-61.093,-55.087,4326
+EIP3,Elephant Island (north coast point 3),Elephant Island,48.1,-61.092,-55.074,4326
+EIP4,Elephant Island (north coast point 4),Elephant Island,48.1,-61.094,-55.067,4326
+EIP5,Elephant Island (north coast point 5),Elephant Island,48.1,-61.094,-55.057,4326
+ELLI,Ellium Island,South Orkney Islands,48.2,-60.694,-44.871,4326
+ELPT,Elephant Point,South Shetland Islands,48.1,-62.6924,-60.8573,4326
+EMEI,East of Meier Point,South Orkney Islands,48.2,-60.62,-45.87,4326
+EMER,Emerald Cove,South Shetland Islands,48.1,-61.906208,-57.682158,4326
+EMPE,Emperor Island,Southwest Antarctic Peninsula,48.1,-67.8647,-68.71,4326
+ENTE,Enterprise Island,Central-west Antarctic Peninsula,48.1,-64.538484,-61.99966,4326
+ENTR,Entrance Point,South Shetland Islands,48.1,-62.9981,-60.5533,4326
+ENTW,Entrance Point West,South Shetland Islands,48.1,-63.008,-60.562,4326
+ETNA,Etna Island,Northeast Antarctic Peninsula,48.1,-63.0948,-55.179,4326
+EVEN,Cape Evensen (mainland),Southwest Antarctic Peninsula,48.1,-66.164,-65.683,4326
+EVER,Cape Evensen (offshore rocks),Southwest Antarctic Peninsula,48.1,-66.157904,-65.720454,4326
+EXTE,Extension Reef,Southwest Antarctic Peninsula,48.1,-65.9675,-66.121944,4326
+EYRI,Eyrie Bay,Northeast Antarctic Peninsula,48.1,-63.578333,-57.676667,4326
+FALS,False Island Point (Vega Island),Northeast Antarctic Peninsula,48.1,-63.927222,-57.3425,4326
+FARE,Farewell Rock,Central-west Antarctic Peninsula,48.1,-63.8678,-61.0183,4326
+FARI,False Ridge,Elephant Island,48.1,-61.283,-54.052,4326
+FBER,Fortenberry,Victoria Land,88.1,-70.7662,167.0789,4326
+FERG,Ferguslie Peninsula,South Orkney Islands,48.2,-60.693,-44.567,4326
+FERR,Ferrier Peninsula,South Orkney Islands,48.2,-60.715,-44.425,4326
+FILD,Fildes Peninsula (northwest side),South Shetland Islands,48.1,-62.173,-58.97,4326
+FISH,Fish Islands,Southwest Antarctic Peninsula,48.1,-66.0275,-65.3611,4326
+FITC,Fitchie Bay,South Orkney Islands,48.2,-60.714,-44.494,4326
+FIZK,Fizkin Island (islet northeast of Fizkin Island),Southwest Antarctic Peninsula,48.1,-65.514,-65.48,4326
+FLIE,Fliess Bay,Northeast Antarctic Peninsula,48.1,-63.2045,-55.2412,4326
+FLOR,Florence Rock,South Orkney Islands,48.2,-60.768,-44.622,4326
+FOLD,Fold Island,Kemp Land,58.4.2,-67.32,59.32,4326
+FORB,Forbes Glacier,Mac. Robertson Land,58.4.2,-67.5964,62.2858,4326
+FORT,Fort Point (Greenwich Island),South Shetland Islands,48.1,-62.542,-59.58,4326
+FOYN,Foyn Harbor (Enterprise Island),Central-west Antarctic Peninsula,48.1,-64.554167,-62.009167,4326
+FRAE,Franklin Island East,Victoria Land,88.1,-76.1581,168.4101,4326
+FRAM,Fram Islands,Wilkes Land,58.4.1,-66.637,139.825,4326
+FRAN,Franklin Island,Victoria Land,88.1,-76.18,168.43,4326
+FRAW,Franklin Island West,Victoria Land,88.1,-76.1618,168.3383,4326
+FRED,Fredriksen Island,South Orkney Islands,48.2,-60.7326,-44.9901,4326
+FRNC,Francais Rocks,Northeast Antarctic Peninsula,48.1,-63.027691,-56.008571,4326
+FRPT,False Round Point,South Shetland Islands,48.1,-61.8983,-57.9893,4326
+FURS,Fur Seal Point,Elephant Island,48.1,-61.218,-54.043,4326
+FYRC,Fyr Channel,South Orkney Islands,48.2,-60.729,-45.673,4326
+GALE,Galindez Island East,Central-west Antarctic Peninsula,48.1,-65.2476,-64.2399,4326
+GALS,Galindez Island South,Central-west Antarctic Peninsula,48.1,-65.252,-64.246,4326
+GAMP,Gam Point Area,South Shetland Islands,48.1,-61.9227,-57.9546,4326
+GARY,Cape Garry,South Shetland Islands,48.1,-63.361,-62.258,4326
+GAST,Gaston Islands,Central-west Antarctic Peninsula,48.1,-64.4848,-61.827,4326
+GEDD,Cape Geddes,South Orkney Islands,48.2,-60.685,-44.59,4326
+GEOR,Georges Point (Ronge Island),Central-west Antarctic Peninsula,48.1,-64.6694,-62.6696,4326
+GERD,Gerd Island,South Orkney Islands,48.2,-60.6574,-45.7437,4326
+GERL,Gerlache Island,Central-west Antarctic Peninsula,48.1,-64.601,-64.214,4326
+GIBA,Gibbon Bay,South Orkney Islands,48.2,-60.649,-45.214,4326
+GIBB,Gibbs Island,Elephant Island,48.1,-61.471,-55.6385,4326
+GIBS,Gibson Bay,Northeast Antarctic Peninsula,48.1,-63.318,-55.842,4326
+GING,Ginger Island,Southwest Antarctic Peninsula,48.1,-67.7494,-68.6858,4326
+GLAN,Glandaz Point,Central-west Antarctic Peninsula,48.1,-65.0911,-63.9591,4326
+GNEY,Gibbney Island,Mac. Robertson Land,58.4.2,-67.5543,62.3205,4326
+GOLF,Golfcourse Point,Elephant Island,48.1,-61.128,-55.473,4326
+GOPT,Gourlay Point,South Orkney Islands,48.2,-60.7309,-45.5863,4326
+GOSL,Gosling Islands,South Orkney Islands,48.2,-60.642,-45.942,4326
+GOUL,Gould,NA,48.5,-77.71,-47.68,4326
+GOUR,Gourdin Island,Northwest Antarctic Peninsula,48.1,-63.1969,-57.3074,4326
+GOWC,Gosling Islands (west coast),South Orkney Islands,48.2,-60.64,-45.908,4326
+GRAP,Graptolite Island,South Orkney Islands,48.2,-60.7159,-44.4621,4326
+GREE,The Green Glen,Elephant Island,48.1,-61.271,-55.266,4326
+GREI,Green Island,Central-west Antarctic Peninsula,48.1,-65.3236,-64.1487,4326
+GREY,Grey Island,South Orkney Islands,48.2,-60.7487,-45.0149,4326
+GRIB,Georges Rib,Elephant Island,48.1,-61.157,-54.973,4326
+GRIN,Grinder Rock,Central-west Antarctic Peninsula,48.1,-63.966,-61.4256,4326
+GUNN,Gunnerus,Queen Maud Land,58.4.2,-68.75,34.38,4326
+HALF,Half Moon Island,South Shetland Islands,48.1,-62.596,-59.918,4326
+HALY,Halley,Coats Land,48.5,-75.54,-27.43,4326
+HANN,Hannah Point,South Shetland Islands,48.1,-62.6545,-60.6134,4326
+HANS,"Cape Hansen, Coronation Island",South Orkney Islands,48.2,-60.659,-45.584,4326
+HARE,Harmony Point (east),South Shetland Islands,48.1,-62.304,-59.229,4326
+HARM,Harmony Point,South Shetland Islands,48.1,-62.3064,-59.2425,4326
+HASW,Haswell Island,Queen Mary Land,58.4.1,-66.52,93.01,4326
+HBAY,Harald Bay,Victoria Land,88.1,-69.1977,157.6894,4326
+HENN,Hennequin Point,South Shetland Islands,48.1,-62.124,-58.396,4326
+HENR,Henry Islands,Wilkes Land,58.4.1,-66.8781,120.6206,4326
+HERO,Heroina Island,Northeast Antarctic Peninsula,48.1,-63.3944,-54.6083,4326
+HEYN,North of Heywood Island,South Shetland Islands,48.1,-62.312,-59.66,4326
+HEYW,Heywood Island,South Shetland Islands,48.1,-62.3174,-59.6854,4326
+HIDD,Hidden Bay,Central-west Antarctic Peninsula,48.1,-65.048889,-63.780278,4326
+HILL,Camp Hill,Northeast Antarctic Peninsula,48.1,-63.675889,-57.847732,4326
+HINO,Cape Hinode,Queen Maud Land,58.4.2,-68.1453,42.6612,4326
+HOKU,Hokuro Cove,Queen Maud Land,58.4.2,-69.213,39.629,4326
+HOLD,Holdfast Point (mainland and offshore rocks),Southwest Antarctic Peninsula,48.1,-66.7917,-66.5867,4326
+HOLL,Holl/O'Connor,Wilkes Land,58.4.1,-66.4118,110.4315,4326
+HOOK,Cape Hooker,South Shetland Islands,48.1,-63.334,-61.963,4326
+HOPE,Hope Bay,Northeast Antarctic Peninsula,48.1,-63.3972,-56.9978,4326
+HORI,Horseshoe Island,Southwest Antarctic Peninsula,48.1,-67.816111,-67.236389,4326
+HORS,Cape Hooker Rock (south),South Shetland Islands,48.1,-63.345,-61.982,4326
+HOVG,Hovgaard Island,Central-west Antarctic Peninsula,48.1,-65.1296,-64.0939,4326
+HPNE,Hall Peninsula (northeast),South Shetland Islands,48.1,-62.769,-61.241,4326
+HPSW,Hall Peninsula (southwest),South Shetland Islands,48.1,-62.775,-61.244,4326
+HUMB,Humble Island,Central-west Antarctic Peninsula,48.1,-64.7647,-64.0875,4326
+HUMM,Two Hummock Island,Central-west Antarctic Peninsula,48.1,-64.1362,-61.7033,4326
+HUMP,Humphries Heights,Central-west Antarctic Peninsula,48.1,-65.0557,-63.8637,4326
+HUNT,Hunt Island,Central-west Antarctic Peninsula,48.1,-64.333,-62.117,4326
+HURE,Hurd Peninsula (east),South Shetland Islands,48.1,-62.695,-60.379,4326
+HURW,Hurd Peninsula (west),South Shetland Islands,48.1,-62.674,-60.406,4326
+HUTB,Hut Bluff,Elephant Island,48.1,-61.219,-55.14,4326
+HYDR,Hydrurga Rocks,Central-west Antarctic Peninsula,48.1,-64.1454,-61.6259,4326
+IFOI,Ifo Island Area,Wilkes Land,58.4.1,-66.627,139.728,4326
+INAC,Inaccessible Island,South Orkney Islands,48.2,-60.5667,-46.7333,4326
+INEX,Inexpressible Island,Victoria Land,88.1,-74.9009,163.7287,4326
+INTE,Intercurrence Island,Central-west Antarctic Peninsula,48.1,-63.933,-61.416,4326
+IOLB,Isles of Litwin Bay,South Shetland Islands,48.1,-61.99,-58.569,4326
+IVAN,Ivanhoff Head,Wilkes Land,58.4.1,-66.8803,109.1276,4326
+JACO,Jacobs Ladder,Elephant Island,48.1,-61.152,-54.737,4326
+JACP,Jacques Peak,Central-west Antarctic Peninsula,48.1,-64.5152,-61.8342,4326
+JADE,Jade Point,Northeast Antarctic Peninsula,48.1,-63.6028,-57.5935,4326
+JAME,Cape James,South Shetland Islands,48.1,-63.0903,-62.6979,4326
+JANE,Janet Rock,Wilkes Land,58.4.1,-66.5698,139.1651,4326
+JAQU,Jaquinot Rocks,Northwest Antarctic Peninsula,48.1,-63.441,-58.421,4326
+JENN,Jenny Island,Southwest Antarctic Peninsula,48.1,-67.729722,-68.383889,4326
+JESS,Jessie Bay,South Orkney Islands,48.2,-60.719,-44.694,4326
+JING,Jingle Island,Southwest Antarctic Peninsula,48.1,-65.4303,-65.3253,4326
+JOHN,Johnson's Dock,South Shetland Islands,48.1,-62.6604,-60.3675,4326
+JONA,Jonassen Island,Northeast Antarctic Peninsula,48.1,-63.5425,-56.6834,4326
+JONE,Cape Jones,Victoria Land,88.1,-73.2762,169.2272,4326
+JORG,Jorge Island,South Shetland Islands,48.1,-62.3798,-59.7607,4326
+JOUB,Joubin Islands,Central-west Antarctic Peninsula,48.1,-64.7744,-64.3992,4326
+JOUG,Jougla Point,Central-west Antarctic Peninsula,48.1,-64.827,-63.4932,4326
+JPTI,Jameson Point Islands,South Shetland Islands,48.1,-63.2944,-62.2622,4326
+JPTS,Jameson Point (south),South Shetland Islands,48.1,-63.3079,-62.2524,4326
+JPTV,Jameson Point (vicinity),South Shetland Islands,48.1,-63.296,-62.2583,4326
+JUAN,Juan Carlos I Station,South Shetland Islands,48.1,-62.65,-60.383,4326
+JULE,Cape Jules,Wilkes Land,58.4.1,-66.7438,140.9189,4326
+KATE,Cape Kater,Northwest Antarctic Peninsula,48.1,-63.7742,-59.8471,4326
+KAYR,Kay Rock,Central-west Antarctic Peninsula,48.1,-64.126,-60.935,4326
+KELL,Kellick Island,South Shetland Islands,48.1,-61.9186,-58.3928,4326
+KETL,Ketley Point,Central-west Antarctic Peninsula,48.1,-64.7066,-62.7631,4326
+KIDS,Kidson Island,Mac. Robertson Land,58.4.2,-67.2144,61.187,4326
+KING,King Point,Northeast Antarctic Peninsula,48.1,-63.16,-55.481,4326
+KIRB,Kirby Head,Enderby Land,58.4.2,-67.2726,46.5372,4326
+KIRT,Kirton/Macklin,Mac. Robertson Land,58.4.2,-67.4907,63.6378,4326
+KITC,Kitchen Point,South Shetland Islands,48.1,-62.387,-59.347,4326
+KJEL,Cape Kjellman,Northwest Antarctic Peninsula,48.1,-63.7249,-59.4145,4326
+KLOA,Kloa Point,Kemp Land,58.4.2,-66.64,57.28,4326
+KNOB,"Knobble Head, Bransfield Island",Northeast Antarctic Peninsula,48.1,-63.1619,-56.5694,4326
+KOPA,Kopaitic Island,Northwest Antarctic Peninsula,48.1,-63.315,-57.91,4326
+KROG,Krogh Island (Islet North of NE coast of K.I.),Southwest Antarctic Peninsula,48.1,-66.250738,-66.960104,4326
+KUNO,Kuno Point,Southwest Antarctic Peninsula,48.1,-66.3978,-67.1603,4326
+KUZI,Kuzira Point,Queen Maud Land,58.4.2,-69.6,38.2667,4326
+LAAG,Laager Point,South Shetland Islands,48.1,-62.641,-61.146,4326
+LACH,Cape Lachman (James Ross Island),Northeast Antarctic Peninsula,48.1,-63.782222,-57.784444,4326
+LAFA,Lafarge Rocks,Northwest Antarctic Peninsula,48.1,-63.209,-57.549,4326
+LAGO,Lagotellerie Island,Southwest Antarctic Peninsula,48.1,-67.8869,-67.4017,4326
+LAIN,Lainez Point,Southwest Antarctic Peninsula,48.1,-67.695556,-67.78,4326
+LAIR,Lair Point,South Shetland Islands,48.1,-62.615,-61.0353,4326
+LAJA,Lajarte Island,Central-west Antarctic Peninsula,48.1,-64.2357,-63.4752,4326
+LAKT,Islet next to Laktionov Island,Southwest Antarctic Peninsula,48.1,-65.758531,-65.789737,4326
+LARS,Larsen Island,South Orkney Islands,48.2,-60.5955,-46.0777,4326
+LAUF,Lauff Island,Marie Byrd Land,88.2,-73.2325,-126.7749,4326
+LAUR,Cape Laure,Central-west Antarctic Peninsula,48.1,-64.7667,-63.3492,4326
+LAUT,Lautaro Neck,Central-west Antarctic Peninsula,48.1,-64.8285,-63.1027,4326
+LAVO,Islet 1 km west of Lavosier Island,Southwest Antarctic Peninsula,48.1,-66.122,-66.829,4326
+LAZA,Lazarev,Queen Maud Land,48.6,-69.75,15.55,4326
+LECO,Lecointe Island,Central-west Antarctic Peninsula,48.1,-64.270278,-62.064722,4326
+LEDD,Ledda Bay,Marie Byrd Land,88.2,-74.228,-130.784,4326
+LEGU,Cape Leguillou,Northwest Antarctic Peninsula,48.1,-63.5427,-59.843,4326
+LEPP,Islet south of Le Petit Prince,South Shetland Islands,48.1,-61.911,-58.021,4326
+LEWI,Lewis Island,Wilkes Land,58.4.1,-66.1051,134.3849,4326
+LIND,Lindblad Cove,Northwest Antarctic Peninsula,48.1,-63.878611,-59.441111,4326
+LION,Lions Rump,South Shetland Islands,48.1,-62.1331,-58.1229,4326
+LITC,Litchfield Island,Central-west Antarctic Peninsula,48.1,-64.7708,-64.0919,4326
+LITW,Litwin Bay (southwest of Davey Point),South Shetland Islands,48.1,-61.987,-58.565,4326
+LLAN,Llano Point,South Shetland Islands,48.1,-62.176,-58.446,4326
+LLOY,Cape Lloyd,Elephant Island,48.1,-61.1298,-54.0103,4326
+LOBO,Lobodon Island,Central-west Antarctic Peninsula,48.1,-64.086,-61.6009,4326
+LOCK,Port Lockroy,Central-west Antarctic Peninsula,48.1,-64.8231,-63.484,4326
+LONG,Long Peninsula Island,Princess Elizabeth Land,58.4.2,-68.4163,78.324,4326
+LOOK,Cape Lookout,Elephant Island,48.1,-61.278,-55.205,4326
+LOUB,Loubat Point,Central-west Antarctic Peninsula,48.1,-65.0776,-63.9265,4326
+LOVI,Lovill Bluff,Marie Byrd Land,88.2,-73.538,-127.4361,4326
+LOWT,Low Tongue,Mac. Robertson Land,58.4.2,-67.5456,61.9906,4326
+LSAY,Lindsay Islands,Marie Byrd Land,88.3,-73.6094,-103.1829,4326
+LUIT,Luitpold,Coats Land,48.5,-77.77,-33.6,4326
+MABE,Mabel Island,South Orkney Islands,48.2,-60.675,-44.701,4326
+MACK,MacKellar Islands,Victoria Land,58.4.1,-66.967,142.65,4326
+MACO,Mackintosh Cove (east coast),South Orkney Islands,48.2,-60.6851,-44.4912,4326
+MADD,Madder Cliff (Joinville Island),Northeast Antarctic Peninsula,48.1,-63.2989,-56.4831,4326
+MADI,Madder Cliff Island,Northeast Antarctic Peninsula,48.1,-63.306,-56.499,4326
+MAHE,Maher Island,Marie Byrd Land,88.2,-73.1983,-127.0503,4326
+MALL,Mallory Point,Wilkes Land,58.4.1,-66.83,108.6433,4326
+MAME,Mame-zima,Queen Maud Land,58.4.2,-69.0167,39.4833,4326
+MAND,Mandible Cirque,Victoria Land,88.1,-73.117,169.25,4326
+MANS,Mansfield Point,South Orkney Islands,48.2,-60.65,-45.7333,4326
+MARA,Marambio Station Vicinity,Northeast Antarctic Peninsula,48.1,-64.240556,-56.627222,4326
+MARI,Mariholm,South Orkney Islands,48.2,-60.746,-45.693,4326
+MARR,Marr Bay (east coast),South Orkney Islands,48.2,-60.678,-44.527,4326
+MART,Point Martin,South Orkney Islands,48.2,-60.7709,-44.7185,4326
+MATH,Matthews Island,South Orkney Islands,48.2,-60.745,-45.155,4326
+MAWS,Mawson Coast (excl. Bechervaise Island),Mac. Robertson Land,58.4.2,-67.5563,62.9406,4326
+MBIS,Mount Biscoe,Enderby Land,58.4.2,-66.2209,51.3275,4326
+MBNE,Miers Bluff Cove (northeast),South Shetland Islands,48.1,-62.716,-60.431,4326
+MBNW,Miers Bluff (northwest),South Shetland Islands,48.1,-62.716,-60.431,4326
+MCAL,McCall Point,Southwest Antarctic Peninsula,48.1,-67.03,-66.616667,4326
+MCDO,McDonald Point,Mac. Robertson Land,58.4.2,-67.3427,59.6654,4326
+MEDL,Medley Rocks,Northeast Antarctic Peninsula,48.1,-62.996093,-56.036455,4326
+MEGA,Megaptera Island,Central-west Antarctic Peninsula,48.1,-63.678,-60.806,4326
+MEHO,Meholmen Island,Queen Maud Land,58.4.2,-69.0254,39.4788,4326
+MEIE,Meier Point,South Orkney Islands,48.2,-60.636,-45.896,4326
+MELC,Melchior Islands,Central-west Antarctic Peninsula,48.1,-64.312105,-62.962974,4326
+MERR,Merritt Island,Wilkes Land,58.4.1,-66.4588,107.1565,4326
+MERT,Mertz Glacier,George V Land,58.4.1,-66.892,146.62,4326
+METC,Metchnikoff Point,Central-west Antarctic Peninsula,48.1,-64.041,-62.5747,4326
+METH,Methuen Cove,South Orkney Islands,48.2,-60.751,-44.576,4326
+MGLE,Mount Gleadell,Enderby Land,58.4.2,-66.941,50.44,4326
+MICH,Michelsen Island,South Orkney Islands,48.2,-60.7324,-45.0233,4326
+MIDA,Midas Island,Central-west Antarctic Peninsula,48.1,-64.1685,-61.1008,4326
+MIDG,Hollin/Midgley,Wilkes Land,58.4.1,-66.3259,110.4036,4326
+MIER,Miers Bluff,South Shetland Islands,48.1,-62.7167,-60.4282,4326
+MIKK,Mikkelsen Harbor (Trinity Island),Central-west Antarctic Peninsula,48.1,-63.8964,-60.7762,4326
+MITC,Mitchell Cove (Robert Island),South Shetland Islands,48.1,-62.394444,-59.639722,4326
+MIZU,Mizukuguri Cove,Queen Maud Land,58.4.2,-69.197,39.614,4326
+MLGE,McLeod Glacier (east),South Orkney Islands,48.2,-60.721,-45.625,4326
+MLGW,McLeod Glacier (west),South Orkney Islands,48.2,-60.7,-45.6,4326
+MOEI,Moe Island,South Orkney Islands,48.2,-60.734,-45.691,4326
+MOLI,Molina Point (northeast tip of Lemaire Island),Central-west Antarctic Peninsula,48.1,-64.8075,-62.853889,4326
+MONA,Cape Monaco,Central-west Antarctic Peninsula,48.1,-64.717138,-64.278164,4326
+MONR,Monroe Island,South Orkney Islands,48.2,-60.5997,-46.0568,4326
+MONU,Monument Rocks,Central-west Antarctic Peninsula,48.1,-64.017,-60.9433,4326
+MOOT,Moot Point,Central-west Antarctic Peninsula,48.1,-65.2062,-64.078,4326
+MOPT,Monroe Point,South Shetland Islands,48.1,-62.8112,-61.5162,4326
+MORE,Moreton Point,South Orkney Islands,48.2,-60.6122,-46.0308,4326
+MOSS,West coast of Mossman Peninsula,South Orkney Islands,48.2,-60.772,-44.753,4326
+MOYE,Moyes,South Orkney Islands,48.2,-60.732,-45.66,4326
+MPNC,Moreton Point North Coast,South Orkney Islands,48.2,-60.61,-46.024,4326
+MPTE,Macaroni Point (east),South Shetland Islands,48.1,-62.8987,-60.543,4326
+MPTW,Macaroni Point (west),South Shetland Islands,48.1,-62.8991,-60.5833,4326
+MRII,Mount Riiser-Larsen,Enderby Land,58.4.2,-66.7908,50.5511,4326
+MUCK,Muckle Bluff,Elephant Island,48.1,-61.157,-54.86,4326
+MURR,Murray Islands,South Orkney Islands,48.2,-60.773,-44.524,4326
+MYAL,Myall/McMahon,Enderby Land,58.4.2,-67.6721,45.7356,4326
+NANC,Nancy Rock,South Shetland Islands,48.1,-62.23,-59.099,4326
+NCAP,North Cape (d'Urville Island),Northeast Antarctic Peninsula,48.1,-62.974,-56.489,4326
+NCOI,North of Cornwall Island,South Shetland Islands,48.1,-62.33,-59.702,4326
+NEIS,Nelly Island,Wilkes Land,58.4.1,-66.2294,110.1782,4326
+NEKO,Neko Harbor (Andvord Bay),Central-west Antarctic Peninsula,48.1,-64.8383,-62.5327,4326
+NELL,Nella/Thalla Islands,Victoria Land,88.1,-70.6136,166.0873,4326
+NEPT,Nelly Point,Elephant Island,48.1,-61.157,-54.775,4326
+NESM,Northeast of Smiggers Island,Southwest Antarctic Peninsula,48.1,-65.451571,-65.346483,4326
+NEWE,Newell Point,South Shetland Islands,48.1,-62.3374,-59.52,4326
+NFOR,North Foreland,South Shetland Islands,48.1,-61.8928,-57.688,4326
+NHAM,North of Hammer Point,South Shetland Islands,48.1,-62.33,-59.624,4326
+NIGG,Nigg Rock,South Orkney Islands,48.2,-60.707,-44.864,4326
+NMED,North of Medley Rocks,Northeast Antarctic Peninsula,48.1,-62.9969,-55.9771,4326
+NOBL,Noble Rocks,Central-west Antarctic Peninsula,48.1,-64.7849,-63.4335,4326
+NOKK,Nokkelholmane Islands,Queen Maud Land,58.4.2,-69.3811,39.4635,4326
+NOPT,North Point,South Orkney Islands,48.2,-60.672,-45.626,4326
+NORF,Northern Foothills (Terra Nova Bay),Victoria Land,88.1,-74.75,164,4326
+NORW,Norway Bight,South Orkney Islands,48.2,-60.616,-45.816,4326
+NOVI,Noville Peninsula,Ellsworth Land,88.3,-71.77,-98.45,4326
+NPRO,Promontories on north-central coast,South Shetland Islands,48.1,-63.25,-62.075,4326
+NTAY,North of Taylor Point,South Shetland Islands,48.1,-61.919,-57.648,4326
+NUTT,Cape Nutt,Wilkes Land,58.4.1,-66.6352,108.2127,4326
+NVEG,North Vega Island,Northeast Antarctic Peninsula,48.1,-63.8053,-57.226,4326
+NWPO,Northwest coast of Pomona Plateau,South Orkney Islands,48.2,-60.544,-45.96,4326
+NWSP,Northwest of Spert Island,Central-west Antarctic Peninsula,48.1,-63.8225,-60.9597,4326
+OBEL,Point Obelisk (James Ross Inland),Northeast Antarctic Peninsula,48.1,-64.127222,-58.450833,4326
+OBRI,O'Brien Island,Elephant Island,48.1,-61.507,-55.956,4326
+ODBE,Odbert Island,Wilkes Land,58.4.1,-66.3742,110.5421,4326
+OLDH,Oldham Island,Mac. Robertson Land,58.4.2,-67.5208,61.7253,4326
+OLIC,Oliphant Channel,South Orkney Islands,48.2,-60.729,-45.592,4326
+OLII,Oliphant Islands,South Orkney Islands,48.2,-60.736,-45.594,4326
+OMGA,Cape Omega,Queen Maud Land,58.4.2,-68.5667,40.9833,4326
+ONEI,O'Neill Point,Central-west Antarctic Peninsula,48.1,-64.81622,-63.090132,4326
+ONGU,Ongulkaven,Queen Maud Land,58.4.2,-69.0171,39.4252,4326
+ORCW,Offshore Rocks off Cape Wallace,South Shetland Islands,48.1,-63.235,-62.228,4326
+ORNE,Orne Islands,Central-west Antarctic Peninsula,48.1,-64.662,-62.673,4326
+ORRO,Ornen Rocks,South Shetland Islands,48.1,-62.009,-57.566,4326
+OUTE,Outer Island,South Orkney Islands,48.2,-60.7069,-45.5806,4326
+OWEN,Owen Island,South Shetland Islands,48.1,-61.9332,-58.3886,4326
+PABE,Paradise Harbor Beacon (Paradise Bay),Central-west Antarctic Peninsula,48.1,-64.9111,-62.9311,4326
+PAGE,Pageant Point,South Orkney Islands,48.2,-60.7286,-45.5843,4326
+PALA,Palaver Point,Central-west Antarctic Peninsula,48.1,-64.1486,-61.759,4326
+PAND,Pandemonium Point,South Orkney Islands,48.2,-60.736,-45.648,4326
+PANT,Pantomime Point,South Orkney Islands,48.2,-60.7266,-45.5833,4326
+PAPT,Patelnia Point,South Shetland Islands,48.1,-62.235,-58.472,4326
+PATE,Patella Island,Northeast Antarctic Peninsula,48.1,-63.1294,-55.5238,4326
+PAUL,Paulet Island,Northeast Antarctic Peninsula,48.1,-63.5801,-55.7881,4326
+PCHA,Port Charcot,Central-west Antarctic Peninsula,48.1,-65.067,-64.026,4326
+PEIN,Peine Island (Comb Island),Northeast Antarctic Peninsula,48.1,-63.411,-54.717,4326
+PENG,Penguin Island,South Shetland Islands,48.1,-62.102,-57.9269,4326
+PEPO,Penguin Point (Seymour Island),Northeast Antarctic Peninsula,48.1,-64.3061,-56.7114,4326
+PERS,Persson Island,Northeast Antarctic Peninsula,48.1,-64.2,-58.4,4326
+PETE,Petermann Island,Central-west Antarctic Peninsula,48.1,-65.176,-64.137,4326
+PGEO,Point Geologie,Adelie Land,58.4.1,-66.67,140.01,4326
+PHIL,Cape Phillips,Victoria Land,88.1,-73.0714,169.6168,4326
+PIGE,Cape Pigeon Rocks,Victoria Land,58.4.1,-66.9334,143.894,4326
+PIIS,Peter I Island,Ellsworth Land,88.3,-68.835,-90.4917,4326
+PILL,Pillar Ridge,Elephant Island,48.1,-61.271,-54.222,4326
+PING,Pinguino Island,Central-west Antarctic Peninsula,48.1,-64.1435,-60.9857,4326
+PIRI,Pirie Peninsula,South Orkney Islands,48.2,-60.69,-44.662,4326
+PISL,Peterson Island,Wilkes Land,58.4.1,-66.4665,110.4993,4326
+PKUP,Pickup Point,Elephant Island,48.1,-61.116,-54.645,4326
+PLAT,Plato Island (Platter Island),Northeast Antarctic Peninsula,48.1,-63.433,-54.6742,4326
+PLDR,Penguin Ladder,Elephant Island,48.1,-61.143,-54.72,4326
+PLEN,Pleneau Island,Central-west Antarctic Peninsula,48.1,-65.104,-64.0556,4326
+PMAR,Port Martin,Wilkes Land,58.4.1,-66.8113,141.3997,4326
+POMO,Pomona Plateau Northwest coast,South Orkney Islands,48.2,-60.544,-45.96,4326
+POPO,Pottinger Point,South Shetland Islands,48.1,-61.9325,-58.3582,4326
+POPT,Portal Point,Central-west Antarctic Peninsula,48.1,-64.501944,-61.761111,4326
+PORT,Porteous Point,South Orkney Islands,48.2,-60.724,-45.675,4326
+POSS,Possession Island,Victoria Land,88.1,-71.8946,171.1692,4326
+POWE,Powell Island,South Orkney Islands,48.2,-60.725,-45.029,4326
+PPPT,Pink Pool Point,Elephant Island,48.1,-61.309,-54.079,4326
+PRAE,Point Rae,South Orkney Islands,48.2,-60.757,-44.633,4326
+PRES,President Head (Snow Island),South Shetland Islands,48.1,-62.7255,-61.2001,4326
+PRIE,Priest Island (Peltier Channel),Central-west Antarctic Peninsula,48.1,-64.858889,-63.502222,4326
+PRIM,Prime Head,Northwest Antarctic Peninsula,48.1,-63.2129,-57.305,4326
+PRIN,Principal Point,Central-west Antarctic Peninsula,48.1,-64.9121,-63.431,4326
+PROC,Proclamation Island,Enderby Land,58.4.2,-65.8424,53.6876,4326
+PROS,Prospect Point,Southwest Antarctic Peninsula,48.1,-66.008889,-65.338333,4326
+PSON,Peterson Bank,Wilkes Land,58.4.1,-65.92,110.23,4326
+PTHO,Point Thomas,South Shetland Islands,48.1,-62.1631,-58.4615,4326
+PTWD,Point Wordie,Elephant Island,48.1,-61.245,-55.328,4326
+PURD,Purdy Point,South Orkney Islands,48.2,-60.5333,-45.4333,4326
+PYPT,Py Point,Central-west Antarctic Peninsula,48.1,-64.8792,-63.5974,4326
+PYRI,Pyrites Island,South Shetland Islands,48.1,-61.9241,-57.9491,4326
+QPTN,Quinton Point (north),Central-west Antarctic Peninsula,48.1,-64.317,-63.667,4326
+RAGN,Ragnhild,Queen Maud Land,48.6,-69.9,27.15,4326
+RAND,Rocks near Andersson Island,Northeast Antarctic Peninsula,48.1,-63.5603,-56.4856,4326
+RAUE,Rauer Islands,Princess Elizabeth Land,58.4.2,-68.8331,77.6765,4326
+RAYN,Rayner Point,South Orkney Islands,48.2,-60.648,-45.191,4326
+RBSN,Robinson,Mac. Robertson Land,58.4.2,-67.4543,63.4596,4326
+REDI,Red Island,Northeast Antarctic Peninsula,48.1,-63.7356,-57.88,4326
+RENI,Renier Point,South Shetland Islands,48.1,-62.609,-59.81,4326
+RETU,Return Point,South Orkney Islands,48.2,-60.6266,-46.0328,4326
+RHYO,Rhyolite Island,Palmer Land,48.1,-69.6488,-68.5709,4326
+RIDL,Ridley Island,South Shetland Islands,48.1,-61.85,-58.016,4326
+RIIS,Riiser,Queen Maud Land,48.6,-72.12,-15.11,4326
+RIPP,Rip Point,South Shetland Islands,48.1,-62.235,-59.001,4326
+RNVG,Near Ranvik Glacier,Princess Elizabeth Land,58.4.2,-69.154027,77.262724,4326
+ROBB,Robbery Beaches,South Shetland Islands,48.1,-62.616,-61.083,4326
+ROBE,Robert Point (Robert Island),South Shetland Islands,48.1,-62.45,-59.383,4326
+ROCA,Cape Roca,South Orkney Islands,48.2,-60.75,-44.8167,4326
+ROGE,Cape Roget,Victoria Land,88.1,-71.99,170.59,4326
+ROME,Romeo Island,South Shetland Islands,48.1,-62.3763,-59.9268,4326
+RONE,Ronge Island East,Central-west Antarctic Peninsula,48.1,-64.6884,-62.6436,4326
+RONW,Robinson (northwest),Mac. Robertson Land,58.4.2,-67.4489,63.413,4326
+ROOK,Rookery Islands,Mac. Robertson Land,58.4.2,-67.6044,62.5099,4326
+ROQU,Cape Roquemaurel,Northwest Antarctic Peninsula,48.1,-63.5486,-58.9652,4326
+ROSE,Robinson (southeast),Mac. Robertson Land,58.4.2,-67.4749,63.4956,4326
+ROWE,Rowett Island,Elephant Island,48.1,-61.2852,-55.2141,4326
+ROYD,Cape Royds,Victoria Land,88.1,-77.5545,166.1639,4326
+RRRI,Red Rock Ridge,Southwest Antarctic Peninsula,48.1,-68.2878,-67.1686,4326
+RUDM,Rudmose Rocks,South Orkney Islands,48.2,-60.676,-44.602,4326
+RUGG,Rugged Rocks,South Shetland Islands,48.1,-62.601,-59.816,4326
+RUMP,Rumpa Island,Queen Maud Land,58.4.2,-69.1441,39.3905,4326
+RUPE,Rupert Coast,Marie Byrd Land,88.2,-75.38,-143.3,4326
+RZEP,Rzepeki Islands,South Shetland Islands,48.1,-62.099,-58.824,4326
+SABR,Sabrina Island,Victoria Land,88.1,-66.9171,163.309,4326
+SADD,Saddle Island,South Orkney Islands,48.2,-60.617,-44.855,4326
+SANA,Sanae,Queen Maud Land,48.6,-70,-1.42,4326
+SAND,Sandefjord Bay,South Orkney Islands,48.2,-60.605,-46.0367,4326
+SANE,San Eliado Point,Central-west Antarctic Peninsula,48.1,-64.844,-63.1166,4326
+SAPT,Saddleback Point,Elephant Island,48.1,-61.099,-54.901,4326
+SART,Sartorius Point,South Shetland Islands,48.1,-62.5596,-59.6567,4326
+SAXU,Saxum Nunatak,Northeast Antarctic Peninsula,48.1,-63.1367,-56.0533,4326
+SCUL,Scullin/Murray,Mac. Robertson Land,58.4.2,-67.7833,66.6968,4326
+SEAL,Seal Islands,Elephant Island,48.1,-60.975,-55.393,4326
+SEFB,SE Fisher Bay,Victoria Land,58.4.1,-67.5949,146.0809,4326
+SEGI,Small island southeast on Gerlache Island,Central-west Antarctic Peninsula,48.1,-64.6037,-64.2038,4326
+SELV,Selvick Cove,Central-west Antarctic Peninsula,48.1,-64.6405,-62.5691,4326
+SENT,Sentry Rocks,Victoria Land,88.1,-70.7543,167.4046,4326
+SEPR,SE Promontory,Victoria Land,88.1,-66.65,163.05,4326
+SERA,Serac Point,Elephant Island,48.1,-61.177,-54.026,4326
+SGUE,Island south of Guesalaga Island,Central-west Antarctic Peninsula,48.1,-64.282,-61.999,4326
+SHAC,Shackleton Ice Shelf,Queen Mary Land,58.4.1,-64.86,96.02,4326
+SHAG,Shagnasty Island,South Orkney Islands,48.2,-60.732,-45.618,4326
+SHEE,Sheelagh Islands,Enderby Land,58.4.2,-66.5464,50.1804,4326
+SHEI,Shepard Island,Marie Byrd Land,88.2,-74.3773,-132.5519,4326
+SHEN,Sheppard Nunatak,Northeast Antarctic Peninsula,48.1,-63.3629,-57.0154,4326
+SHEP,Sheppard Point,Northeast Antarctic Peninsula,48.1,-63.3707,-56.9844,4326
+SHIL,Shilling Shelf,Elephant Island,48.1,-61.097,-54.735,4326
+SHIN,Shingle Cove (Coronation Island),South Orkney Islands,48.2,-60.6469,-45.5636,4326
+SHIR,Cape Shirreff,South Shetland Islands,48.1,-62.4575,-60.7874,4326
+SHIS,Shag Island,South Shetland Islands,48.1,-62.185,-58.297,4326
+SHLY,Shirley/Beall,Wilkes Land,58.4.1,-66.283,110.5,4326
+SHUM,Shumskiy Cove,Southwest Antarctic Peninsula,48.1,-67.072778,-67.3525,4326
+SIFF,Siffrey Point,Northwest Antarctic Peninsula,48.1,-63.221944,-57.222222,4326
+SIGA,Sigaren,Queen Maud Land,58.4.2,-69.1693,39.4344,4326
+SIMS,Sims Island,Palmer Land,88.3,-73.2725,-78.5407,4326
+SKIL,Skilling Island (north coast),South Orkney Islands,48.2,-60.7833,-45.15,4326
+SKOT,Skottsberg Point,Central-west Antarctic Peninsula,48.1,-63.9205,-60.8089,4326
+SMAL,Small Island,Central-west Antarctic Peninsula,48.1,-64.0121,-61.4549,4326
+SMAT,Unnamed islands (South of Matthews Island),South Orkney Islands,48.2,-60.742,-45.154,4326
+SMIG,Smiggers Island,Southwest Antarctic Peninsula,48.1,-65.4597,-65.3514,4326
+SMIT,Cape Smith,South Shetland Islands,48.1,-62.8738,-62.3,4326
+SMTH,Smith,Palmer Land,48.5,-74.37,-60.83,4326
+SMYL,Smyley,Palmer Land,88.3,-72.3,-78.83,4326
+SNOW,Snow Hill Island,Northeast Antarctic Peninsula,48.1,-64.52,-57.44,4326
+SOMI,South of Martin Islands,Southwest Antarctic Peninsula,48.1,-65.6881,-65.3381,4326
+SOTH,South of Tay Head,Northeast Antarctic Peninsula,48.1,-63.3359,-55.6413,4326
+SPBL,South Point Bluff,South Shetland Islands,48.1,-63.0158,-60.6347,4326
+SPER,Spert Island,Central-west Antarctic Peninsula,48.1,-63.8614,-60.9778,4326
+SPIG,Spigot Peak,Central-west Antarctic Peninsula,48.1,-64.635,-62.554,4326
+SPIN,Spine Island (Coronation Island),South Orkney Islands,48.2,-60.594,-46.0202,4326
+SPIP,Spigot Peak Point,Central-west Antarctic Peninsula,48.1,-64.625,-62.558,4326
+SPLI,Split Beach,Elephant Island,48.1,-61.156,-54.937,4326
+SPNW,South Point Bluff (northwest),South Shetland Islands,48.1,-63.0138,-60.6702,4326
+SPRI,Sprightly Islands Vicinity,Central-west Antarctic Peninsula,48.1,-64.283,-61.072,4326
+SPRO,Spindrift Rocks,South Orkney Islands,48.2,-60.683,-45.644,4326
+SPTR,Spigot Peak Tripod,Central-west Antarctic Peninsula,48.1,-64.6358,-62.5622,4326
+SPUI,Spence Harbour and unnamed island,South Orkney Islands,48.2,-60.699,-45.169,4326
+STAC,Stackpole Rocks,South Shetland Islands,48.1,-62.678,-60.9574,4326
+STAN,Stanton Continental Rock,Mac. Robertson Land,58.4.2,-67.5342,61.7175,4326
+STCB,Stancomb,Coats Land,48.5,-74.12,-23.09,4326
+STEE,Steepholm Islands,South Orkney Islands,48.2,-60.7833,-45.15,4326
+STEI,Steines Island,Princess Elizabeth Land,58.4.2,-69.3412,76.5825,4326
+STEN,Stene Point,South Orkney Islands,48.2,-60.654,-45.707,4326
+STER,Sterneck Island,Central-west Antarctic Peninsula,48.1,-64.201,-60.9826,4326
+STIG,Stigant Point,South Shetland Islands,48.1,-62.023,-58.7185,4326
+STOK,Stoker Island,South Shetland Islands,48.1,-62.4,-59.85,4326
+STON,Stonington Island,Southwest Antarctic Peninsula,48.1,-68.186076,-66.997005,4326
+STRA,Stranger Point,South Shetland Islands,48.1,-62.26,-58.6161,4326
+STUN,Stanton unnamed,Mac. Robertson Land,58.4.2,-67.5078,61.5978,4326
+STUR,Sturge Island,Victoria Land,88.1,-67.467,164.633,4326
+SVEN,Sven Foyn Island,Victoria Land,88.1,-71.956,171.0695,4326
+SVIS,Svenner Islands,Princess Elizabeth Land,58.4.2,-69.0341,76.8346,4326
+SWIS,Southwest Island (Aviation Islands),Victoria Land,88.1,-69.2666,158.7833,4326
+TART,Tartar Point,South Shetland Islands,48.1,-61.937,-58.423,4326
+TAYG,Taylor Glacier,Mac. Robertson Land,58.4.2,-67.45,60.88,4326
+TAYH,Tay Head (Joinville Island),Northeast Antarctic Peninsula,48.1,-63.3486,-55.5508,4326
+TAYL,Taylor Point,South Shetland Islands,48.1,-61.933,-57.642,4326
+TELE,Telefon Bay (Deception Is),South Shetland Islands,48.1,-62.923611,-60.664444,4326
+TENM,Tenmondai Rock,Queen Maud Land,58.4.2,-68.4445,41.701,4326
+TETR,Tetrad Islands,Central-west Antarctic Peninsula,48.1,-63.918,-60.734,4326
+THOR,Thorgaut,Mac. Robertson Land,58.4.2,-67.4425,63.5433,4326
+THUN,Thunder Bay,Elephant Island,48.1,-61.312,-54.117,4326
+THUR,"Thurston Glacier, Mount Siple",Marie Byrd Land,88.2,-73.5,-125.621,4326
+TICK,Tickell Head,South Orkney Islands,48.2,-60.528,-45.798,4326
+TIEA,Trinity Island (east),Central-west Antarctic Peninsula,48.1,-63.883,-60.683,4326
+TINW,Trinity Island (northwest),Central-west Antarctic Peninsula,48.1,-63.711,-60.749,4326
+TISW,Trinity Island (southwest),Central-west Antarctic Peninsula,48.1,-63.9,-60.879,4326
+TIWE,Trinity Island (west),Central-west Antarctic Peninsula,48.1,-63.833,-60.829,4326
+TORG,Torgersen Island,Central-west Antarctic Peninsula,48.1,-64.7731,-64.0741,4326
+TORI,Torinosu Cove,Queen Maud Land,58.4.2,-69.4833,39.5667,4326
+TOWE,Tower Island (east),Northwest Antarctic Peninsula,48.1,-63.591,-59.779,4326
+TOWW,Tower Island (west),Northwest Antarctic Peninsula,48.1,-63.56,-59.876,4326
+TPTN,Two points north of Cape Hooker,South Shetland Islands,48.1,-63.319,-61.951,4326
+TRIA,Triangle Point,South Shetland Islands,48.1,-62.522,-59.839,4326
+TROW,Trowbridge Islands,South Shetland Islands,48.1,-61.996,-57.6304,4326
+TRUA,Truant Island,Central-west Antarctic Peninsula,48.1,-64.923,-63.407,4326
+TRUN,Trundle Island,Southwest Antarctic Peninsula,48.1,-65.3938,-65.2885,4326
+TRYN,Tryne Islands,Princess Elizabeth Land,58.4.2,-68.3809,78.4125,4326
+TSIS,Three Sisters,South Shetland Islands,48.1,-62.0779,-57.9135,4326
+TTOE,The Toe,South Shetland Islands,48.1,-62.3277,-59.1669,4326
+TTUR,The Turret,South Orkney Islands,48.2,-60.67,-45.166,4326
+TUPI,Tupinier Island,Northwest Antarctic Peninsula,48.1,-63.3702,-58.2669,4326
+TURR,Turret Point (King George Island),South Shetland Islands,48.1,-62.0875,-57.9514,4326
+TUXE,Cape Tuxon,Central-west Antarctic Peninsula,48.1,-65.2667,-64.1178,4326
+TWGI,Three islands west of Gerlache Island,Central-west Antarctic Peninsula,48.1,-64.5921,-64.2471,4326
+TWIN,Twintits Stack,Elephant Island,48.1,-61.18,-55.402,4326
+TXRX,Tuxon Rocks,Central-west Antarctic Peninsula,48.1,-65.2549,-64.1334,4326
+UCHA,Uchatka Point,South Shetland Islands,48.1,-62.22,-58.439,4326
+UFSI,Ufs Island,Mac. Robertson Land,58.4.2,-67.4694,61.1406,4326
+UICW,Unnamed island off Cape Wallace,South Shetland Islands,48.1,-63.2322,-62.1783,4326
+UIEL,Unnamed island off Elephant Point,South Shetland Islands,48.1,-62.6,-60.502,4326
+UIP1,Unnnamed Island PE 1,Princess Elizabeth Land,58.4.2,-68.767,77.7506,4326
+UIP2,Unnnamed Island PE 2,Princess Elizabeth Land,58.4.2,-68.9012,77.736,4326
+UIP3,Unnnamed Island PE 3,Princess Elizabeth Land,58.4.2,-68.4419,78.211,4326
+UIPN,Unnamed Island PE 2 North,Princess Elizabeth Land,58.4.2,-68.9013,77.7162,4326
+UMBE,Umbeashi,Queen Maud Land,58.4.2,-68.05,43.01,4326
+UNGE,Unger Island (Unger Rock),Victoria Land,88.1,-70.6811,166.919,4326
+UNN2,Unnamed 2,Mac. Robertson Land,58.4.2,-67.4402,63.5435,4326
+UNN7,Unnamed 7,Mac. Robertson Land,58.4.2,-67.4475,63.3336,4326
+URUG,Uruguay Island,Central-west Antarctic Peninsula,48.1,-65.2325,-64.223056,4326
+USEF,Useful Island,Central-west Antarctic Peninsula,48.1,-64.717,-62.864,4326
+VAIS,Valette Island,South Orkney Islands,48.2,-60.758,-44.622,4326
+VALE,Cape Valentine,Elephant Island,48.1,-61.102,-54.651,4326
+VAPO,Vapour Col (Deception Island),South Shetland Islands,48.1,-62.992,-60.721,4326
+VERN,Vernadsky Station,Central-west Antarctic Peninsula,48.1,-65.2453,-64.2567,4326
+VESN,Vestfold North,Princess Elizabeth Land,58.4.2,-68.4842,78.0954,4326
+VESS,Vestfold South,Princess Elizabeth Land,58.4.2,-68.5883,77.9227,4326
+VIET,Vietor Rock,South Shetland Islands,48.1,-62.6831,-61.0981,4326
+VIEU,Vieugue Island,Southwest Antarctic Peninsula,48.1,-65.6682,-65.2144,4326
+VIEW,View Point,Northeast Antarctic Peninsula,48.1,-63.557778,-57.256111,4326
+VORT,Vortex Island,Northeast Antarctic Peninsula,48.1,-63.7257,-57.6415,4326
+VRNW,Vietor Rock (northwest),South Shetland Islands,48.1,-62.6746,-61.1021,4326
+WABL,Cape Wallace Bluff (south),South Shetland Islands,48.1,-63.2816,-62.2664,4326
+WAIT,Cape Waites,Marie Byrd Land,88.3,-72.713,-103.451,4326
+WALK,Walker Point,Elephant Island,48.1,-61.143,-54.697,4326
+WALL,Cape Wallace,South Shetland Islands,48.1,-63.233,-62.209,4326
+WASH,Cape Washington,Victoria Land,88.1,-74.64,165.37,4326
+WATE,Waterboat Point,Central-west Antarctic Peninsula,48.1,-64.8236,-62.8581,4326
+WATT,Watt Bay,Victoria Land,58.4.1,-66.9949,144.2854,4326
+WAYA,Way Archipelago,Victoria Land,58.4.1,-66.8571,143.5895,4326
+WEBB,Webb Island,Southwest Antarctic Peninsula,48.1,-67.447778,-67.925833,4326
+WEDD,Weddell Island,South Orkney Islands,48.2,-60.6359,-44.8479,4326
+WEEK,Weeks Stack (1 km south of stack),South Shetland Islands,48.1,-62.234,-59.057,4326
+WELC,Welcome Point,Elephant Island,48.1,-61.134,-55.429,4326
+WELL,Weller Island,Southwest Antarctic Peninsula,48.1,-65.4453,-65.3817,4326
+WHAL,Whalers Bay (King George Is),South Shetland Islands,48.1,-62.983232,-60.561715,4326
+WHEA,Cape Wheatstone,Victoria Land,88.1,-72.6217,170.2024,4326
+WHIT,Cape Whitson,South Orkney Islands,48.2,-60.748,-44.544,4326
+WHTY,Blakeney/Whitney,Wilkes Land,58.4.1,-66.2457,110.5573,4326
+WIDE,Wideopen Islands,Northeast Antarctic Peninsula,48.1,-63.0042,-55.8492,4326
+WILD,Point Wild,Elephant Island,48.1,-61.098,-54.861,4326
+WINK,Winkle Island (two islets next to Winkle Island),Southwest Antarctic Peninsula,48.1,-65.52,-65.686,4326
+WINW,Window Island,South Shetland Islands,48.1,-62.5654,-61.1237,4326
+WITH,Withem Island,South Shetland Islands,48.1,-62.2352,-59.1381,4326
+WOOD,Wood Bay,Victoria Land,88.1,-74.3299,165.1332,4326
+WOOI,Wood Island,South Shetland Islands,48.1,-62.4841,-60.3042,4326
+WOPT,Worley Point,Marie Byrd Land,88.2,-74.4057,-132.777,4326
+WORL,Worlds End,South Shetland Islands,48.1,-61.856,-57.996,4326
+WPEC,Watson Peninsula (east coast),South Orkney Islands,48.2,-60.6761,-44.5436,4326
+WPWC,Watson Peninsula (west coast),South Orkney Islands,48.2,-60.675,-44.551,4326
+WSAD,West of Saddleback Point (Penguin Island),Elephant Island,48.1,-61.106,-54.963,4326
+WYAT,Wyatt Earp Islands,Princess Elizabeth Land,58.4.2,-68.3569,78.5385,4326
+YALO,Yalour Islands,Central-west Antarctic Peninsula,48.1,-65.2389,-64.1564,4326
+YANK,Yankee Harbor,South Shetland Islands,48.1,-62.5257,-59.7687,4326
+YOUN,Young Island,Victoria Land,88.1,-66.4167,162.4,4326
+YTRE,Ytrehovdeholmen,Queen Maud Land,58.4.2,-69.2167,39.4333,4326
+ZAWA,Zawadski Stacks,South Shetland Islands,48.1,-62.079,-58.784,4326
+ZEDI,Zed Island,South Shetland Islands,48.1,-62.433,-60.166,4326
+ZIGZ,Zig Zag Island,Northwest Antarctic Peninsula,48.1,-63.6123,-59.8419,4326
